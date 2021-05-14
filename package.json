@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bryan-lima/angular-9-cod3r-backend/issues"
   },
-  "homepage": "https://github.com/bryan-lima/angular-9-cod3r-backend#readme"
+  "homepage": "https://github.com/bryan-lima/angular-9-cod3r-backend#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
