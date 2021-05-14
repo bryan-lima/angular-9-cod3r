@@ -1,0 +1,20 @@
+{
+  "name": "angular-9-cod3r-backend",
+  "version": "1.0.0",
+  "description": "Repositório de estudos do curso de **Angular 9** do [Cod3r](https://www.cod3r.com.br)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryan-lima/angular-9-cod3r-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryan-lima/angular-9-cod3r-backend/issues"
+  },
+  "homepage": "https://github.com/bryan-lima/angular-9-cod3r-backend#readme"
+}
