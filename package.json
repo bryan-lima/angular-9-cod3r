@@ -4,7 +4,7 @@
   "description": "Repositório de estudos do curso de **Angular 9** do [Cod3r](https://www.cod3r.com.br)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "json-server --watch db.json --port 3001"
   },
   "repository": {
     "type": "git",
